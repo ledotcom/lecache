@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<lecache name="cache1">
+ <cache level="1" type="ehcache" name="session"></cache>
+ <cache level="2" type="redis" name="test"></cache>
+</lecache>
+</config>
